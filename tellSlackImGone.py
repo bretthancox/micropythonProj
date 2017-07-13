@@ -1,3 +1,9 @@
+# Liberally uses the code found at https://github.com/Syps/desk_alert_button
+# Original author write-up can be found at https://www.nicksypteras.com/projects/easy-button-desk-alert-hack
+# Write-up by me can be found at http://www.bretthancox.com/2017/07/and-now-for-something-completelynot.html
+# Major difference is the number of buttons and corresponding number of messages
+# This file was uploaded directly, but should have been forked for record-keeping
+
 from machine import Pin
 import urequests
 import time
